@@ -9,6 +9,10 @@ When the start signal is activated, the mining process begins. The system then g
 ## Finite State Machine
 <img width="902" height="218" alt="image" src="https://github.com/user-attachments/assets/5f7e7621-2a6e-4581-8cfa-8e7cc4382d3b" />
 
+## Result
+<img width="1082" height="632" alt="image" src="https://github.com/user-attachments/assets/b3d7dcb6-1f61-4965-ba45-09fdf0647877" />
+<img width="1075" height="596" alt="image" src="https://github.com/user-attachments/assets/37bad365-aa59-427d-abbd-5a1f13c2f4fc" />
+
 
 
 
