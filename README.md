@@ -5,3 +5,9 @@ Crypto Hash played an important role in modern digital security systems, includi
 
 ## How it works
 When the start signal is activated, the mining process begins. The system then generates sequential nonce values using a counter. Each nonce is combined with the message and processed by the hash engine. The resulting hash will be compared with the target. If the condition is satisfied, the system will find = 1 and The successful nonce is stored in found_nonce. And if the condition is not satisfied, The nonce continues incrementing and the search will repeat automatically.
+
+## System Flow
+START → NONCE → FORMAT → HASH → COMPARE → FOUND?
+                ↑                            ↓
+                └────────── repeat ──────────┘
+
